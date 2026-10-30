@@ -1,0 +1,33 @@
+# Build output
+**/bin/
+**/obj/
+.vs/
+.idea/
+.vscode/
+
+# Local configuration and secrets
+**/appsettings.json
+**/appsettings.*.json
+!**/appsettings.example.json
+**/secrets.json
+**/.env
+**/.env.*
+!.env.example
+**/*.user
+**/*.suo
+**/*.pfx
+**/*.p12
+**/*.pem
+**/*.key
+**/*.publishsettings
+
+# Tests and local request scratch files
+**/Test.*
+**/*.test
+**/*.tests
+**/*.http
+**/*.rest
+
+# IDE and OS files
+.DS_Store
+Thumbs.db

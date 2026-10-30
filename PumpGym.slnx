@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="Pump.Api/Pump.Api.csproj" />
+    <Project Path="Pump.Application/Pump.Application.csproj" />
+    <Project Path="Pump.Domain/Pump.Domain.csproj" />
+    <Project Path="Pump.Infrastructure/Pump.Infrastructure.csproj" />
+  </Folder>
+</Solution>
